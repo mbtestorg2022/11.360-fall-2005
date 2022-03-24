@@ -368,7 +368,7 @@ Kennedy, Maureen, and Paul Leonard. _Dealing With Neighborhood Change: A Primer 
 
 Bergsman, Steve. "Community Renewal: Activating Chicago's Washington Park." _Urban Land_ 63, no. 10 (October 2004): 104-107.
 
-Seidman, Karl F. _Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs._ The Fannie Mae Foundation, September 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-fannie-mae-main-str.pdf))
+Seidman, Karl F. _Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs._ The Fannie Mae Foundation, September 2004. ([PDF - 1.8MB](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-fannie-mae-main-str.pdf))
 
 NBDM Overview: What is the Neighborhood Business Development Methodology.
 
@@ -420,7 +420,7 @@ Nelessen, Anton Clarence. _Visions for a New American Dream_. Chicago, IL: Plann
 
 The originator of the visual preference survey advances process and principles for the creation and design of small communities. Worth perusing for ideas of potential relevance to the client project.
 
-Kohr, Todd. _From Form to Function: An Evaluation of the Effectiveness and Potential of Form-Based Zoning Codes_. MIT DUSP Thesis 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5 MB]({{< baseurl >}}/resources/kohr_thesis))
+Kohr, Todd. _From Form to Function: An Evaluation of the Effectiveness and Potential of Form-Based Zoning Codes_. MIT DUSP Thesis 2004. ([PDF - 5.5 MB]({{< baseurl >}}/resources/kohr_thesis))
 
 
 {{< tdclose >}}
@@ -630,7 +630,7 @@ Ecological Considerations
 {{< tdopen >}}
 
 
-_Smart Site Practices for Redevelopment and Infill Projects Redevelopment._ Center for Watershed Protection, October 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://owl.cwp.org/?mdocs-file=5220))
+_Smart Site Practices for Redevelopment and Infill Projects Redevelopment._ Center for Watershed Protection, October 2001. ([PDF](https://owl.cwp.org/?mdocs-file=5220))
 
 Enlow, Clair. "Planning-Rethinking Streets as Parks-Seattle's Open Space Strategy Shifts its Emphasis Away from Traditional Parks to an Evolving "Urban Ecosystem" that Focuses on City Streets." _Landscape Architecture_ 92 (2002): 52-58.
 
